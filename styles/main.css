@@ -83,6 +83,10 @@ p span {
 	font-size: 18px;
 }
 
+button:hover {
+	background-color: #15a4fa;
+}
+
 #down {
 	color: #fff;
 	font-size: 35px;
